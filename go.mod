@@ -1,3 +1,3 @@
-module github.com/Lukasa/mkcert
+module mkcertfile
 
 go 1.23
